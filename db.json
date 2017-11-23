@@ -1,0 +1,29 @@
+{"Root":
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "Sunraha hai tu, ro rahi hoo mai",
+    "murl": "http://localhost:3000/assets/audio/fininal_Voice Recorder_62.mp3",
+    "aUrl": "http://localhost:3000/assets/images/LAwtar.png",    
+    "thumbnailUrl": "http://localhost:3000/assets/images/img1.jpg"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "Satyam Shivam Sundaram",
+    "murl": "http://localhost:3000/assets/audio/Voice Recorder_82.mp3",
+    "aUrl": "http://localhost:3000/assets/images/LAwtar.png", 
+    "thumbnailUrl": "http://localhost:3000/assets/images/img2.jpg"
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "Ramaji Bhajan",
+    "murl": "http://localhost:3000/assets/audio/fininal_Voice Recorder_62.mp3",
+    "aUrl": "http://localhost:3000/assets/images/LAwtar.png",   
+    "thumbnailUrl": "http://localhost:3000/assets/images/img3.jpg"
+
+  }
+]
+}
